@@ -1,5 +1,5 @@
 {
-  "name": "webpack_boilerplate",
+  "name": "webpack-project-boilerplate",
   "version": "1.0.0",
   "description": "Webpack Project Boilerplate",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quantum49/Webpack-Boilerplate.git"
+    "url": "git+https://github.com/quantum49/webpack-project-boilerplate.git"
   },
   "author": "quantum1449",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/quantum49/Webpack-Boilerplate.git"
+    "url": "https://github.com/quantum49/webpack-project-boilerplate.git"
   },
-  "homepage": "https://github.com/quantum49/Webpack-Boilerplate#readme",
+  "homepage": "https://github.com/quantum49/webpack-project-boilerplate.git#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.7",
