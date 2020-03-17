@@ -1,0 +1,7 @@
+THINGS TO DO BEFORE USING BOILERPLATE:
+
+1.  Install node packages with "npm install" 
+2.  start up the webpack dev server with "npn run serve"
+
+AFTER FINISHING DEVELOPMENT:
+1.  Run "npm build" to build deployment code
